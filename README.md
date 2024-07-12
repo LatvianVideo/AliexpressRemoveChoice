@@ -1,5 +1,5 @@
-# What does it do?
-Removes choice listings from aliexpress searches
+# What is it?
+It's a [Tampermonkey]([https://pages.github.com/](https://www.tampermonkey.net/)) script, which will remove "choice" listings when searching on Aliexpress.
 
 
 # What doesn't it do?
