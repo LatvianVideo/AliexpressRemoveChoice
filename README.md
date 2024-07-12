@@ -1,5 +1,16 @@
-Created in a short time with chatgpt, expect errors.
-Simple but works for now.
+# What does it do?
+Removes choice listings from aliexpress searches
+
+
+# Why was it created?
+Choice listings were annoying me, as i wanted to order items worth less than 10eur, but not need to pay 2eur shipping.
+
+
+##
+Created in a short time using chatgpt, expect errors.
+
+Simple, but works for now.
+
 
 ```
 // ==UserScript==
