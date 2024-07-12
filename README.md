@@ -2,6 +2,10 @@
 Removes choice listings from aliexpress searches
 
 
+# What doesn't it do?
+It wont remove choice listings from your home page or "related items" when viewing an item
+
+
 # Why was it created?
 Choice listings were annoying me, as i wanted to order items worth less than 10eur, but not need to pay 2eur shipping.
 
