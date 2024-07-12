@@ -1,6 +1,7 @@
 Created in a short time with chatgpt, expect errors.
 Simple but works for now.
 
+```
 // ==UserScript==
 // @name         Remove Listings with Any Image in Specific Container on Aliexpress
 // @namespace    http://tampermonkey.net/
@@ -36,3 +37,4 @@ Simple but works for now.
     const observer = new MutationObserver(removeListings);
     observer.observe(document.body, { childList: true, subtree: true });
 })();
+```
